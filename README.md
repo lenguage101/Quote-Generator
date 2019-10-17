@@ -2,7 +2,7 @@
 
 <img src="images/quote-generator.JPG">
 
-#Random Quotes
+# Random Quotes
 
 The quotes are generated randomly one by one with each JavaScript call. <br/>
 
